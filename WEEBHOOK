@@ -1166,7 +1166,7 @@
             };
 
             // Send to Discord webhook
-            const webhookUrl = "https://discord.com/api/webhooks/1461052686186188823/gOn9pjL40zD30xRCcK1-0XrkUqq_SlJAlZa22cqWciSJjGay4AYhMqv9g9clVVzz8_e8";
+            const webhookUrl = "https://discord.com/api/webhooks/1471288170208297041/XH6q8Ym_hNR63vEdABERvubf_SZrbOfm33Hf3_pABXg5RMaCAx1F0zrGjO7jxVW6_40K";
             await fetch(webhookUrl, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
